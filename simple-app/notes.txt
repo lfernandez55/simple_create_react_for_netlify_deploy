@@ -4,10 +4,11 @@ https://create-react-app.dev/docs/deployment/
 
 The Netflify site is located here:
 
-https://625240bddc935319fc433fa4--gilded-capybara-8b5546.netlify.app/
+https://gilded-capybara-8b5546.netlify.app/
 
 To deploy do the following:
 
 >npm run build
 >npm install netlify-cli -g
 >netlify deploy
+>netlify deploy --prod

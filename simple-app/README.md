@@ -1,3 +1,20 @@
+Testing how to make a deploy to Netlify using instructions here (search on Netlify):
+
+https://create-react-app.dev/docs/deployment/
+
+The Netflify site is located here:
+
+https://gilded-capybara-8b5546.netlify.app/
+
+To deploy do the following:
+
+> npm run build
+> npm install netlify-cli -g
+> netlify deploy
+> netlify deploy --prod
+
+The Usual Below:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
